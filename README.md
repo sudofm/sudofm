@@ -1,4 +1,7 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=80&text=Hey%20Guys%20!-nl-&desc=Welcome%20on%20my%20profile&fontSize=30)
+<!-- <img src="https://github.com/sudofm/sudofm/blob/main/header_img.jpg?raw=true" style="width:300px;"/></p> -->
+
+
 
 <!--
 **sudofm/sudofm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
